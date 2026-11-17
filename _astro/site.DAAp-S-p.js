@@ -1,0 +1,1 @@
+var e=`/dip`.replace(/\/$/,``),t=t=>e?`${e}${t===`/`?`/`:t}`:t,n=t=>(e&&t.startsWith(e)?t.slice(e.length):t).replace(/(\/index)?\.html$/,``).replace(/\/$/,``)||`/`;export{t as n,n as t};

@@ -1,0 +1,4 @@
+# Pre-launch: keep search engines out until the school approves the site.
+# At launch, replace with "Allow: /" and add the sitemap line.
+User-agent: *
+Disallow: /

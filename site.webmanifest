@@ -1,0 +1,14 @@
+{
+  "name": "Digital Innovator Programme",
+  "short_name": "DIP",
+  "description": "Five years of coding, building and inventing at Pusat PERMATA@Pintar Negara, UKM.",
+  "start_url": "/dip/",
+  "display": "standalone",
+  "background_color": "#F4F5FA",
+  "theme_color": "#323761",
+  "icons": [
+    { "src": "/dip/brand/dip-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/dip/brand/dip-icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/dip/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
